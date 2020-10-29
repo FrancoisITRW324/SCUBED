@@ -1,0 +1,12 @@
+-- SQLite
+INSERT INTO `Users` (Id, UserName, fName, lName, age, email)
+VALUES (1, "FrancoisX", "Francois", "Botes", 23, "fbotes01@gmail.com");
+
+INSERT INTO `Users` (Id, UserName, fName, lName, age, email)
+VALUES (2, "Hen", "Hendrik", "Venter", 24, "hendrik@gmail.com");
+
+INSERT INTO `Users` (Id, UserName, fName, lName, age, email)
+VALUES (3, "JanX", "Jan", "Bloukaas", 28, "jan@gmail.com");
+
+INSERT INTO `Users` (Id, UserName, fName, lName, age, email)
+VALUES (4, "KurtX", "Kurt", "Darren", 103, "kurt@gmail.com");

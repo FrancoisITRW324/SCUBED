@@ -1,0 +1,15 @@
+-- SQLite
+INSERT INTO `Products` (Id, Type, Description, DatePublished, Publisher, Name)
+VALUES (1, "CD", "Kurt Darren's firts album", "jan 1 2009 13:22:15", "Sony", "Jy Ken My Nie");
+
+-- SQLite
+INSERT INTO `Products` (Id, Type, Description, DatePublished, Publisher, Name)
+VALUES (1, "VINYL", "Elis Presley's last album", "jan 3 1958 13:22:15", "Warner Brothers", "One for the money");
+
+-- SQLite
+INSERT INTO `Products` (Id, Type, Description, DatePublished, Publisher, Name)
+VALUES (1, "BOOK", "Book is about the fibonacci numbers", "feb 3 2009 13:22:15", "Sony", "The Fibonacci Sequence");
+
+-- SQLite
+INSERT INTO `Products` (Id, Type, Description, DatePublished, Publisher, Name)
+VALUES (1, "CD", "Jan's firts album", "sept 1 2009 13:22:15", "Sony", "Bloukaas");
