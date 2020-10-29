@@ -1156,11 +1156,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SCubed\\Desktop\\Scubed--test\\APi\\API.csproj",
+      "projectUniqueName": "C:\\Users\\SCubed\\Desktop\\SCUBED\\Scubed--test\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\SCubed\\Desktop\\Scubed--test\\APi\\API.csproj",
+      "projectPath": "C:\\Users\\SCubed\\Desktop\\SCUBED\\Scubed--test\\API\\API.csproj",
       "packagesPath": "C:\\Users\\SCubed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SCubed\\Desktop\\Scubed--test\\APi\\obj\\",
+      "outputPath": "C:\\Users\\SCubed\\Desktop\\SCUBED\\Scubed--test\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SCubed\\AppData\\Roaming\\NuGet\\NuGet.Config",

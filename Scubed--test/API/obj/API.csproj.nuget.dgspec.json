@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SCubed\\Desktop\\Scubed--test\\API\\API.csproj": {}
+    "C:\\Users\\SCubed\\Desktop\\SCUBED\\Scubed--test\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SCubed\\Desktop\\Scubed--test\\API\\API.csproj": {
+    "C:\\Users\\SCubed\\Desktop\\SCUBED\\Scubed--test\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SCubed\\Desktop\\Scubed--test\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\SCubed\\Desktop\\SCUBED\\Scubed--test\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\SCubed\\Desktop\\Scubed--test\\API\\API.csproj",
+        "projectPath": "C:\\Users\\SCubed\\Desktop\\SCUBED\\Scubed--test\\API\\API.csproj",
         "packagesPath": "C:\\Users\\SCubed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SCubed\\Desktop\\Scubed--test\\API\\obj\\",
+        "outputPath": "C:\\Users\\SCubed\\Desktop\\SCUBED\\Scubed--test\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SCubed\\AppData\\Roaming\\NuGet\\NuGet.Config",
